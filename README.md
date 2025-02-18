@@ -1,2 +1,2 @@
-# Test1
-erster Test von einem Repository
+# Schulung GitHub
+Anlage und Test von einem öffentlichen Repository
