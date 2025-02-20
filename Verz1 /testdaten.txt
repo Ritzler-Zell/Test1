@@ -3,3 +3,4 @@ Hund
 Katze
 Maus
 Vogel
+Schlange
